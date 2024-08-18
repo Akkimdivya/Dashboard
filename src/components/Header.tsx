@@ -24,6 +24,7 @@ const HeaderContainer = styled.div`
   background-color: ${(props) => props.theme.colors.primary};
   color: ${(props) => props.theme.colors.text};
   padding: 20px;
+  width:100vw;
   display: flex;
   justify-content: space-between;
   align-items: center;
